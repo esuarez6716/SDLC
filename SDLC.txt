@@ -3,6 +3,12 @@ Definition of SDLC
 Purpose
 
 Stages
-
+Planning
+Analysis
+Design
+Developement
+Testing
+Implementation
+Maintenence
 Methodologies
 
