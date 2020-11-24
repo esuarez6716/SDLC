@@ -10,5 +10,8 @@ Developement
 Testing
 Implementation
 Maintenence
-Methodologies
 
+Methodologies
+Lean
+Waterfall
+Spiral
